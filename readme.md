@@ -1,4 +1,4 @@
-# PHP Native password hash
+# PHP password_hash Reloaded
 ~~~
 Originally by: ayeshrajans
 Reloaded Version by My1
